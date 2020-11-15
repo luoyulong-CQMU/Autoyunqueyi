@@ -1,13 +1,15 @@
-Readme：
-说明：
-1.本程序可自动学习yunqueyi视频【高血压系列】
-2.请按下列顺序配置好环境
-3.模拟器安装好yunqueyi.apk（软件包百度找）
-4.打开yunqueyi，完成一次登录，把第一次登录的提示什么的都点掉，不然会报错。
-5.打开Appium，点击start service
-6.运行autoxue.py
 
+说明：
+
+    1.本程序可自动学习yunqueyi视频【高血压系列】
+    2.请按下列顺序配置好环境
+    3.模拟器安装好yunqueyi.apk（软件包百度找）
+    4.打开yunqueyi，完成一次登录，把第一次登录的提示什么的都点掉，不然会报错。
+    5.打开Appium，点击start service
+    6.运行autoxue.py
+    f
 环境配置：
+
 1.安装  jdk1.8，安装包百度即可；
 
         在环境变量中新建JAVA_HOME变量，值为JDK安装路径，如C:\Program Files\Java\jdk1.8.0_05
